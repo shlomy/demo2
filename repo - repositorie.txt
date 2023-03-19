@@ -1,0 +1,30 @@
+repo - repositorie
+
+branch 
+
+commit - save history 
+
+
+db - hisory
+
+
+git init
+
+git branch
+
+ git checkout -b my-branch ///  -b for new branch
+
+
+git checkout [commits / branches]
+
+ git status
+
+git commit -m 
+
+
+ untracked -> staged ->commit ->push
+
+
+
+
+ git reset HEAD --hard 
